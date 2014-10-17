@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[frc:home|Door43 (frc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-frc|d43-frc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-frc/archive/master.zip|d43-frc.zip]]
+
+**Recent Changes**
+{{changes>ns = frc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/frc|Ethnologue data]]
+
